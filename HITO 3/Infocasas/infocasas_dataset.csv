@@ -136,16 +136,16 @@ ID,Ubicación,Tipo,Superficie_Terreno_m2,Superficie_Construida_m2,Dormitorios,Ba
 135,"El Alto, Av. 14 de septiembre",Inmueble,450,200.0,5,3,Sí,Sí,Sí,"Agua, Luz, Gas",Saneado,93000,"Ideal para oficinas"
 136,"Cochabamba, Colcapirhua",Casa,120,70.0,3,2,Sí,No,No,"Agua, Luz",Saneado,48000,"Casa cómoda y acogedora"
 137,"Santa Cruz, La Selva",Casa de Campo,1500,300.0,5,4,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,290000,"Casa de campo con extensos jardines"
-138,"Tarija, Av. 24 de septiembre",Terreno,600,0.0,0,0,Sí,No,No,"Agua, Luz",Saneado,41000,"Terreno ideal para proyectos")
+138,"Tarija, Av. 24 de septiembre",Terreno,600,0.0,0,0,Sí,No,No,"Agua, Luz",Saneado,41000,"Terreno ideal para proyectos"
 139,"La Paz, Obrajes",Departamento,110,110.0,2,1,Sí,Sí,No,"Agua, Luz, Gas",Saneado,69000,"Ubicado en zona tranquila"
 140,"El Alto, Av. 6 de agosto",Inmueble,400,200.0,4,3,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,88000,"Ideal para familia grande"
 141,"Cochabamba, Tiquipaya",Casa,170,80.0,3,2,Sí,Sí,No,"Agua, Luz, Alcantarillado",Saneado,55000,"Casa en zona tranquila"
 142,"Santa Cruz, La Roca",Casa de Campo,1800,300.0,6,5,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,310000,"Casa con piscina y jardín"
 143,"Tarija, Calle Potosí",Terreno,350,0.0,0,0,Sí,No,No,"Agua, Luz",Saneado,36000,"Terreno ideal para construcción"
 144,"La Paz, Villa Fatima",Casa,200,100.0,4,3,Sí,Sí,No,"Agua, Luz, Saneado",Saneado,77000,"Casa con buena distribución"
-145,"El Alto, Av. 10 de noviembre",Inmueble,500,250.0,5,4,Sí,Sí,Sí,"Agua, Luz, Gas",Saneado,96000,"Amplio y moderno")
-146,"Cochabamba, Sacaba",Casa,130,75.0,3,2,Sí,Sí,No,"Agua, Luz",Saneado,49000,"Casa en buen estado")
-147,"Santa Cruz, La Paz",Casa de Campo,2200,400.0,8,7,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,440000,"Casa con amplios espacios")
-148,"Tarija, Av. 14 de septiembre",Terreno,700,0.0,0,0,Sí,No,No,"Agua, Luz",Saneado,45000,"Terreno ideal para proyectos agrícolas")
-149,"La Paz, San Antonio",Departamento,100,100.0,2,1,Sí,Sí,No,"Agua, Luz, Gas",Saneado,65000,"Cerca de todo")
+145,"El Alto, Av. 10 de noviembre",Inmueble,500,250.0,5,4,Sí,Sí,Sí,"Agua, Luz, Gas",Saneado,96000,"Amplio y moderno"
+146,"Cochabamba, Sacaba",Casa,130,75.0,3,2,Sí,Sí,No,"Agua, Luz",Saneado,49000,"Casa en buen estado"
+147,"Santa Cruz, La Paz",Casa de Campo,2200,400.0,8,7,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,440000,"Casa con amplios espacios"
+148,"Tarija, Av. 14 de septiembre",Terreno,700,0.0,0,0,Sí,No,No,"Agua, Luz",Saneado,45000,"Terreno ideal para proyectos agrícolas"
+149,"La Paz, San Antonio",Departamento,100,100.0,2,1,Sí,Sí,No,"Agua, Luz, Gas",Saneado,65000,"Cerca de todo"
 150,"El Alto, Av. 4 de noviembre",Inmueble,500,250.0,5,4,Sí,Sí,Sí,"Agua, Luz, Saneado",Saneado,90000,"Ideal para renta y familia grande"
